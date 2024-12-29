@@ -54,7 +54,7 @@
   image("pictures/university.png", width: 3.8em),
   [
     #link("http://www.xxx.cn/")[*某某大学*] #h(1fr) 2014/09 -- 2018/06 \
-    本科 XXX专业 #h(1fr) 上海, 中国 \
+    学士 XXX专业 #h(1fr) 上海, 中国 \
     - 优秀毕业论文
   ]
 )
