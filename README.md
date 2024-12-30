@@ -5,9 +5,9 @@ Export the codes in `src` to https://typst.app/, then you can further design you
 
 The effect is shown as follows.
 
-|            中文示例            |        English Version         |
-| :----------------------------: | :----------------------------: |
-| ![](resources/Template-CN.png) | ![](resources/Template-EN.png) |
+| **中文示例** | **English Version** |
+|:-----------:|:-------------------:|
+| <img src="resources/Template-CN.png" width="400"> | <img src="resources/Template-EN.png" width="400"> |
 
 ## Acknowledge
 
