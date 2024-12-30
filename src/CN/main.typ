@@ -33,8 +33,8 @@
   [
     #link("http://www.xxx.edu.cn/")[*某某大学*] #h(1fr) 2021/09 -- 2025/06 \
     博士 XXX专业 导师. #link("https://xxx")[#lorem(2)] #h(1fr) 上海, 中国 \
-    - xxx-Class Enterprise Scholarship (year)
-    - Teaching Assistant for xxx courses (year)
+    - xx等奖学金 (年份)
+    - xxx课程助教 (年份)
   ]
 )
 
